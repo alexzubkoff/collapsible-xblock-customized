@@ -1,0 +1,9 @@
+/* CSS for CollapsibleXBlock */
+
+.collapsible_block .count {
+    font-weight: bold;
+}
+
+.collapsible_block p {
+    cursor: pointer;
+}
